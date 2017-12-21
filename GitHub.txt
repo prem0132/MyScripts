@@ -1,0 +1,8 @@
+https://git-scm.com/downloads
+https://help.github.com/articles/setting-your-username-in-git/
+https://help.github.com/articles/setting-your-commit-email-address-in-git/
+https://www.atlassian.com/git/tutorials/setting-up-a-repository/git-init
+https://help.github.com/articles/caching-your-github-password-in-git/			----not tested
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://help.github.com/articles/authorizing-an-ssh-key-for-use-with-a-saml-single-sign-on-organization/    -----did not work
