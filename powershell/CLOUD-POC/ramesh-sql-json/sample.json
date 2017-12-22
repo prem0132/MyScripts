@@ -1,0 +1,19 @@
+
+
+{"service1":{
+ "DBServerInstancename" : {"value": "WKSBAN04GFA052A"},
+"DatabaseName": {"value":"TestLaaS"},
+"SqlUserId": {"value": "helloserver"},
+"SqlPassword": {"value":"Compaq123"},
+"SQLLogPath" : {"value":"C:\\Ddata\\Ramesh\\PowerShellComponent\\Logs"},
+"SQLFolder" : {"value": "C:\\LaasScripts"}
+},
+"service2":{
+ "DBServerInstancename" : {"value": "WKSBAN04GFA052A"},
+"DatabaseName": {"value":"TestLaaS"},
+"SqlUserId": {"value": "helloserver"},
+"SqlPassword": {"value":"Compaq123"},
+"SQLLogPath" : {"value":"C:\\Ddata\\Ramesh\\PowerShellComponent\\Logs"},
+"SQLFolder" : {"value": "C:\\LaasScripts"}
+}		
+}

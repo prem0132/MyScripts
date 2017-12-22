@@ -20,12 +20,13 @@ Creating new Branch
 git branch <branch name>
 git checkout <branch name>
 git checkout <master> -- to switch back to master
-git push --set-upstream origin powershell  ---adding new branch to remote repo
+git push --set-upstream origin powershell  ---- adding new branch to remote repo
 git remote add <repo name> adding remote repo
-git clone <repo-name> -- clone repo from git -- cd to the mirrored repo--start hacking
+git clone <repo-name> -- clone repo from git ---- cd to the mirrored repo--start hacking
 git add <file-name/*> -- adding file
 git commit 
 git push
+git push origin --delete <branch-name>  ---- deleting remote branches
 
 
 
