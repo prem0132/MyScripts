@@ -1,0 +1,1 @@
+This is a python applicaton to communicate to a redfish backend
