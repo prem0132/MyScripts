@@ -4,12 +4,18 @@ import socket
 
 ###############CHAIN OF EVENTS###############
 def chainofevents():
-    print("Welocme to the future")
-    URL = "http://localhost:5000/redfish/v1/Managers/1/"
-    r = requests.get(url = URL)
-    data = r.json()
-    print(data)
-    return
+    print("Welcome to the future\n")
+    URL = "http://127.0.0.1:5000/redfish/v1/AccountService/"
+    r = requests.get(url = URL, auth=('root', 'password123456'))
+    returncode = r.status_code
+    print("Headers: %s\n"%(r.headers))
+    if(returncode == 200):
+        print("GET Call Successful\n")
+        data = r.json()
+        print("data: %s\n"%(data))
+    else:
+        print("Status Code: %s\n"%(returncode)) 
+    return returncode
 
 
 
