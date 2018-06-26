@@ -1,0 +1,20 @@
+docker search
+docker info
+docker-machine <machine name>
+docker start <container id>
+docker rm <container id> 
+docker ps
+docker stop <container id>
+docker rm -f <container id>
+docker attach <container id>
+docker run -d <container id>
+docker inspect <container id>
+docker run -d -p 8080:80 <container id>
+docker ps -a
+docker ps -aq
+docker network ls
+docker <command name> --help
+
+
+
+

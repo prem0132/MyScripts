@@ -1,0 +1,32 @@
+Computer
+CPU
+Server - Big CPU - compute only
+Client SIde 
+Server Side
+Applications, DB, Client Side Apps, Server Side Apps
+Web Servers, Application Server
+Types of OS
+Linux/Windows CLient/Server 
+DB specific OS, Docker specific OS
+Customised OS
+Virtualisation - shared resources /hardware/network
+ESXI, Virtual  Box , VMs
+Virtual Machines
+cloud -> collection of servers
+Docker client server
+Kubernetes client server
+Online CLoud Poviders
+Collection Of servers
+Provision REsources 
+
+
+Docker
+Linux kernel 
+shared kernel
+Virtualisation less
+Same but ightweight 
+minimum dependencies
+application only
+
+
+
